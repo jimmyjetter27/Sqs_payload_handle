@@ -1,6 +1,6 @@
 <?php
 
-namespace SimpleSoftwareIO\Tests\SqsDisk;
+namespace Jimmyjetter\Tests\SqsDisk;
 
 use Mockery;
 use Aws\Sqs\SqsClient;

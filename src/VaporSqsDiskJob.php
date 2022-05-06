@@ -1,6 +1,6 @@
 <?php
 
-namespace jimmyjetter\SqsDisk;
+namespace Jimmyjetter\SqsDisk;
 
 use Laravel\Vapor\Queue\VaporJob;
 use Illuminate\Contracts\Queue\Job as JobContract;

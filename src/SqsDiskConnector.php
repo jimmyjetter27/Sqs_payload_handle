@@ -1,6 +1,6 @@
 <?php
 
-namespace jimmyjetter\SqsDisk;
+namespace Jimmyjetter\SqsDisk;
 
 use Aws\Sqs\SqsClient;
 use Illuminate\Support\Arr;

@@ -1,6 +1,6 @@
 <?php
 
-namespace jimmyjetter\SqsDisk;
+namespace Jimmyjetter\SqsDisk;
 
 use Laravel\Vapor\Console\Commands\VaporWorkCommand as LaravelVaporWorkCommand;
 
